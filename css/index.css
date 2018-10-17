@@ -1,0 +1,162 @@
+.start{
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;section1
+}
+.stu-1{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.stu-1>.str-stu{
+	width: 100%;
+	height: 100%;
+}
+.study-button-box{
+	position: absolute;
+	left: 23%;
+	bottom: 20%;
+}
+.dian{
+	animation:fadeIn 1.5s .5s linear infinite;
+    -moz-animation:fadeIn 1.5s .5s linear infinite;
+    -webkit-animation:fadeIn 1.5s .5s linear infinite;
+    -o-animation:fadeIn 1.5s .5s linear infinite;
+}
+.video{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+}
+.section1{
+	display: none;
+	z-index: 99;
+	width: 100%;
+	height: 100%;	
+	background-color: #000000;
+	background-size: 100% 100%;
+}
+.question{
+	display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+}
+.ques-p4{
+	width: 70%;
+	position: absolute;
+}
+/*.ques-p4-2,.ques-p4-3,.ques-p4-4{
+	position: absolute;
+	top: 0;
+	left: 22%;
+}*/
+.ques-bg{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 100%;
+}
+.ques-p4-2{
+	margin-top: 53%;
+}
+.ques-p4-3{
+	margin-top: 73%;
+}
+.ques-p4-4{
+	margin-top: 93%;
+}
+.stu-2{
+	display: none;
+}
+.first-tu{
+	width: 100%;
+	height: 100%;
+}
+.stu-2 .str-stu-1{
+	position: absolute;
+	top: 80%;
+	left: 36%;
+	width:30% !important;
+}
+.section2{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.section2 #right{
+	width: 100%;
+	height: 100%;
+}
+.section3{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.section3 #wrong{
+	width: 100%;
+	height: 100%;
+}
+.end-img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	display: none;
+}
+.end-img img{
+	width: 100%;
+	height: 100%;
+}
+.start img{
+	width: 100% !important;
+	height: 100%;
+}
+.start .str-stu{
+	display: none;
+}
+.ques-p4{
+    position: absolute;
+    width: 76%;
+    height: 45%;
+    text-align: center;
+    left: 12%;
+    top: 20%;
+}
+.ques-p4-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.ques-p4-2 {
+    margin-top: 40%;
+    position: relative;
+	left: 0;
+	top: 0;
+	width: 70%;
+}
+.ques-p4-3, .ques-p4-4,.ques-p4-5{
+	margin-top: 3%;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 70%;
+}
+.question .ques-p4 .ques-p4-5{
+	display: none;
+}
+/*.judge-true{
+	display: none;
+}
+.judge-false{
+	display: none;
+}*/

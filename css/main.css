@@ -1,0 +1,184 @@
+.secondB {
+width: 1000px;
+margin: 0 auto;
+}
+.leftB {
+margin-top: 30px;
+margin-bottom: 65px;
+float: left;
+width: 448px;
+/*background-color: red;*/
+}
+.centerB {
+margin-top: 210px;
+margin-bottom: 65px;
+float: left;
+width: 110px;
+/*background-color: red;*/
+}
+.rightB {
+float: right;
+width: 442px;
+display: inline;
+margin-top: 30px;
+margin-bottom: 65px;
+}
+.cont_h {
+width: 448px;
+border-bottom: #cdcdcd 1px solid;
+margin-bottom: 10px;
+}
+.lB1{
+text-align: center;
+}
+.cont_h h1 {
+font-size: 24px;
+font-weight: 800;
+font-family: Microsoft Yahei;
+line-height: 40px;
+}
+.lB1 h6 {
+font-size: 12px;
+line-height: 40px;
+color: #666;
+font-weight: normal;
+}
+.rTl{
+width: 110px;
+/*background-color: blue;*/
+}
+.control{
+margin: 135px auto;
+width: 60px;
+height: 115px;
+/*background-color: yellow;*/
+}
+.up{
+background-image: url(../images/up.png);
+background-size: 100% 100%;
+width: 60px;
+height: 43px;
+}
+.num{
+width: 60px;
+height: 51px;
+padding-top: 30px;
+font-size: 25px;
+color: #7b7b7b;
+font-weight: bolder;
+text-align: center;	
+}
+.down{
+background-image: url(../images/down.png);
+background-size: 100% 100%;
+width: 60px;
+height: 43px;
+}
+.rightTop{
+margin-top: 50px;
+height: 315px;
+width: 442px;
+text-align: center;
+font-size: 15px;
+color: #a9a9a9;
+}
+.rightBot{
+margin-top: 70px;
+height: 356px;
+width: 442px;
+text-align: center;
+font-size: 15px;
+color: #3e454d;
+}
+.rBt{
+border-bottom: #cdcdcd 1px solid;
+padding-bottom: 10px;
+}
+.rBc{
+margin: 0 auto;
+margin-top: 20px;
+width: 430px;
+height: 297px;
+}
+.rBc ul{
+list-style:none;
+line-height: 1.7em;
+}
+.rBc li{
+width: 430px;
+}
+.rBc a{
+color: #3e454d; 
+}
+.rBc a:hover{
+color: #3e454d;
+text-decoration: underline; 
+}
+.rBc ul .title{
+float: left;
+}
+.rBc ul .date{
+float: right;
+}
+.line1{
+padding-top: 25px;
+}
+.line2{
+padding-top: 25px;
+}
+.line3{
+padding-top: 25px;
+}
+.line4{
+padding-top: 25px;
+}
+.input1{
+border-color: #fb6669;
+width: 272px;
+height: 32px;
+border-radius: 3px;
+text-indent: 1em;
+}
+.button1{
+margin-left: -10px;
+border-color: #fb6669;
+width: 70px;
+height: 32px;
+border-radius: 3px;
+background-color: #3e454d;
+}
+.clear {
+clear: both;
+}
+
+
+
+.mnav li {
+float: left;
+padding: 0 7px;
+font-size: 12px;
+background: url(http://img.cyol.com/tplimg/jingji/cyol10nav_img4.gif) no-repeat right 11px;
+}
+* {
+margin: 0;
+padding: 0;
+}
+* {
+margin: 0;
+padding: 0;
+}
+* {
+margin: 0;
+padding: 0;
+}
+* {
+margin: 0;
+padding: 0;
+}
+li {
+display: list-item;
+text-align: -webkit-match-parent;
+}
+ul {
+list-style: none;
+}
